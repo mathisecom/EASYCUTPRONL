@@ -688,64 +688,64 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Waar wordt dit gereedschap precies voor gebruikt?",
+            "content": "<p>Het stelt u in staat om een reeds gelijmde PVC-koppeling zeer eenvoudig met een boormachine te verwijderen, zonder gebruik van een hete luchtpistool en zonder deze onnodig te beschadigen.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Met welke buisdiameters is dit compatibel?",
+            "content": "<p>De PVC-buigrader is speciaal ontworpen voor de meest voorkomende diameters: 32, 40, 50 en 100 mm. Alleen geschikt voor PVC-afvoerbuizen, niet voor drukbuizen.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Geschikt voor alle boormachines en elektrische schroevendraaiers?",
+            "content": "<p>Compatibel met alle standaard boormachines dankzij de zeskantige schacht.</p>"
           }
         },
         "item_FdU9Qi": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Is het duurzaam? Slijten de messen snel?",
+            "content": "<p>Het gereedschap is gemaakt van hoogwaardig aluminium en ISO-gecertificeerde hardmetalen punten. De messen zijn duurzaam en kunnen tot 4 keer worden gedraaid voordat ze vervangen moeten worden.</p>"
           }
         },
         "item_p9yhNc": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Is het moeilijk te gebruiken?",
+            "content": "<p>Nee, het is heel eenvoudig: sluit het aan op de boormachine, plaats het in de buis en laat het zijn werk doen. Binnen enkele seconden wordt de koppeling netjes verwijderd.</p>"
           }
         },
         "item_jtGYbJ": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Welke voordelen heeft het ten opzichte van een hete-luchtpistool?",
+            "content": "<p>Sneller en veiliger (geen risico op brandwonden of schade aan PVC)<br/><br/>Netter (uniform en gecontroleerd resultaat)<br/><br/>Geen verlengkabels of hittebron nodig</p>"
           }
         },
         "item_M9GrPP": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Is het product gecertificeerd?",
+            "content": "<p>Voldoet aan RoHS, getest door SGS, CE-gecertificeerd en gemaakt van ISO/GB-T-gecertificeerde materialen.</p>"
           }
         },
         "item_4N6VBc": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Is de buigrader gevaarlijk?",
+            "content": "<p>Nee. De EASYCUT PRO heeft een interne inzet die zich aanpast aan de binnendiameter van de buis. Deze inzet zit stevig in het PVC en voorkomt wegglijden of verkeerd plaatsen. Het gereedschap blijft stabiel en veilig, zelfs bij hoge snelheid.</p>"
           }
         },
         "item_P69EFr": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Blijven er spaanders achter in de buis?",
+            "content": "<p>Nee. De centrale pen duwt de spaanders automatisch naar buiten. Het ontbramen gebeurt netjes, zonder resten of verstoppingen in de buis.</p>"
           }
         }
       },
