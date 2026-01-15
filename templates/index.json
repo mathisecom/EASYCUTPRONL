@@ -49,6 +49,53 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "rich_text_wANWjh": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_CVpnzF": {
+          "type": "subheading",
+          "settings": {
+            "text": "VOOR/NA"
+          }
+        },
+        "heading_XYEiHm": {
+          "type": "heading",
+          "settings": {
+            "text": "Zie het verschil!",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_CVpnzF",
+        "heading_XYEiHm"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_yN3iCg": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "multi_column_7EEGc9": {
       "type": "multi-column",
       "blocks": {
@@ -557,6 +604,8 @@
   },
   "order": [
     "slideshow",
+    "rich_text_wANWjh",
+    "video_yN3iCg",
     "multi_column_7EEGc9",
     "featured_product_3W7gRK",
     "rich_text_EWViCH",
