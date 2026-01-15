@@ -110,7 +110,7 @@
           "type": "text",
           "settings": {
             "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "content": "<p><strong>E-mail:</strong> <strong>hello@easycut-pro.com</strong></p><p><strong>Openingstijden:</strong></p><p><strong>Maandag t/m vrijdag: </strong>09:00 – 12:00 en 14:00 – 18:00</p><p><strong>Zaterdag & zondag: </strong>10:00 – 12:00</p>",
             "enable_follow_on_shop": true
           }
         }
