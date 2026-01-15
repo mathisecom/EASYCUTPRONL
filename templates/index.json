@@ -189,11 +189,33 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_C3TH4m": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Nog een vraag?",
+        "content": "<p>Ons team staat 24/7 voor je klaar.</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "slideshow",
     "featured_product_3W7gRK",
-    "faq"
+    "faq",
+    "contact_C3TH4m"
   ]
 }
