@@ -49,6 +49,78 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "multi_column_7EEGc9": {
+      "type": "multi-column",
+      "blocks": {
+        "item_c6mRkN": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4BaGii": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_CedRVY": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cUfWBa": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_c6mRkN",
+        "item_4BaGii",
+        "item_CedRVY",
+        "item_cUfWBa"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "ZE HEBBEN HET GETEST EN GOEDGEKEURD",
+        "title": "Meer dan 5.000 uur werk bespaard",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_product_3W7gRK": {
       "type": "featured-product",
       "blocks": {
@@ -485,6 +557,7 @@
   },
   "order": [
     "slideshow",
+    "multi_column_7EEGc9",
     "featured_product_3W7gRK",
     "rich_text_EWViCH",
     "image_link_blocks_QwyrwB",
