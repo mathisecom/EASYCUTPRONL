@@ -49,6 +49,72 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "rich_text_kKQBqg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wetE6M": {
+          "type": "heading",
+          "settings": {
+            "text": "Waarom kiezen voor EasyCut PRO?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_wetE6M"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_AyKe9G": {
+      "type": "slideshow",
+      "blocks": {
+        "image_p8VXDr": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_p8VXDr"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
     "rich_text_wANWjh": {
       "type": "rich-text",
       "blocks": {
@@ -604,6 +670,8 @@
   },
   "order": [
     "slideshow",
+    "rich_text_kKQBqg",
+    "slideshow_AyKe9G",
     "rich_text_wANWjh",
     "video_yN3iCg",
     "multi_column_7EEGc9",
