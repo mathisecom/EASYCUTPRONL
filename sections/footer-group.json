@@ -109,7 +109,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
+            "title": "Neem contact op",
             "content": "<p><strong>E-mail:</strong> <strong>hello@easycut-pro.com</strong></p><p><strong>Openingstijden:</strong></p><p><strong>Maandag t/m vrijdag: </strong>09:00 – 12:00 en 14:00 – 18:00</p><p><strong>Zaterdag & zondag: </strong>10:00 – 12:00</p>",
             "enable_follow_on_shop": true
           }
