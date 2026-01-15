@@ -52,6 +52,12 @@
     "featured_product_3W7gRK": {
       "type": "featured-product",
       "blocks": {
+        "liquid_nPhD46": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <style>\n      .badges-container {\n        display: flex;\n        gap: 6px; /* espace entre les badges */\n        align-items: center;\n      }\n\n      .badge {\n        display: inline-block;\n        padding: 4px 10px;\n        font-size: 12px;\n        font-weight: bold;\n        color: white;\n        background: #FF6A00; /* couleur vive et attrayante */\n        border-radius: 15px;\n        text-transform: uppercase;\n        white-space: nowrap;\n      }\n    </style>\n\n    <div class=\"badges-container\">\n      <div class=\"badge\">Bestseller</div>\n      <div class=\"badge\">WINTER UITVERKOOP -50%</div>\n      <div class=\"badge\">GRATIS VERZENDING</div>\n      <div class=\"badge\">3.000+ KLANTEN GINGEN JE VOOR</div>\n    </div>\n  </div>\n</div>"
+          }
+        },
         "title_FmUzq7": {
           "type": "title",
           "settings": {
@@ -110,6 +116,7 @@
         }
       },
       "block_order": [
+        "liquid_nPhD46",
         "title_FmUzq7",
         "price_nfFJQC",
         "description_9AMfFc",
