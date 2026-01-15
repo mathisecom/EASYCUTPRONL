@@ -747,6 +747,20 @@
             "title": "Blijven er spaanders achter in de buis?",
             "content": "<p>Nee. De centrale pen duwt de spaanders automatisch naar buiten. Het ontbramen gebeurt netjes, zonder resten of verstoppingen in de buis.</p>"
           }
+        },
+        "item_3NqQbn": {
+          "type": "item",
+          "settings": {
+            "title": "Kan het gebruikt worden op moeilijk bereikbare plaatsen?",
+            "content": "<p>Ja. De buigrader wordt geleverd met een haakse adapter, waardoor u eenvoudig in hoeken, onder gootstenen of achter meubels kunt werken, zonder dat u de installatie hoeft te demonteren.</p>"
+          }
+        },
+        "item_aYAFQd": {
+          "type": "item",
+          "settings": {
+            "title": "Werkt het gereedschap ook met grote diameters?",
+            "content": "<p>Absoluut, met drie hardmetalen messen voor een snelle en schone snede, ook geschikt voor diameters tot 100 mm.</p>"
+          }
         }
       },
       "block_order": [
@@ -758,7 +772,9 @@
         "item_jtGYbJ",
         "item_M9GrPP",
         "item_4N6VBc",
-        "item_P69EFr"
+        "item_P69EFr",
+        "item_3NqQbn",
+        "item_aYAFQd"
       ],
       "settings": {
         "full_width": false,
