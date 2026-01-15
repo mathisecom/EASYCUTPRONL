@@ -137,6 +137,39 @@
         "input_text_color": ""
       }
     },
+    "rich_text_EWViCH": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_hTYV6F": {
+          "type": "subheading",
+          "settings": {
+            "text": "Zij zeggen het beter dan wij"
+          }
+        },
+        "heading_4y9BEM": {
+          "type": "heading",
+          "settings": {
+            "text": "Meer dan 3.000 tevreden klanten",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_hTYV6F",
+        "heading_4y9BEM"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_link_blocks_QwyrwB": {
       "type": "image-link-blocks",
       "blocks": {
@@ -428,6 +461,7 @@
   "order": [
     "slideshow",
     "featured_product_3W7gRK",
+    "rich_text_EWViCH",
     "image_link_blocks_QwyrwB",
     "testimonials_L66Vfy",
     "faq",
