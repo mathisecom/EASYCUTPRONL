@@ -98,6 +98,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_z778Jy": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "collapsible_text_YEHkqJ": {
           "type": "collapsible_text",
           "settings": {
@@ -116,6 +122,7 @@
         "variant_picker_XqyJdb",
         "quantity_selector_EgJYdm",
         "buy_buttons_XrPQMi",
+        "liquid_z778Jy",
         "collapsible_text_YEHkqJ"
       ],
       "name": "Featured product",
