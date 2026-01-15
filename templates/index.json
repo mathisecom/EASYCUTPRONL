@@ -523,8 +523,8 @@
             "show_rating": true,
             "rating": 4,
             "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Verrassend efficiënt!",
+            "content": "<p>Verwijdert een fitting in enkele seconden met een schoon resultaat. Bespaart me veel tijd bij elke klus.</p>"
           }
         },
         "testimonial_jF3jmP": {
@@ -534,8 +534,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Zeer degelijk gereedschap.",
+            "content": "<p>De messen snijden perfect en slijten nauwelijks. Veel beter dan een heteluchtpistool gebruiken.</p>"
           }
         },
         "testimonial_EafHaR": {
@@ -545,15 +545,39 @@
             "show_rating": true,
             "rating": 4,
             "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Werkt met al mijn boormachines.",
+            "content": "<p>Ik gebruik het elke dag. Super eenvoudig en snel. Een must-have voor elke loodgieter.</p>"
+          }
+        },
+        "testimonial_p46rCa": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Nooit meer verbrande fittingen!",
+            "content": "<p>De snede is schoon en glad, zonder warmte of geur. Veel netter dan de oude methodes</p>"
+          }
+        },
+        "testimonial_rexNGB": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Grote diameters zijn geen probleem.",
+            "content": "<p>Getest op 100 mm, en het werkte perfect. Zeer aan te bevelen!</p>"
           }
         }
       },
       "block_order": [
         "testimonial_ybmabg",
         "testimonial_jF3jmP",
-        "testimonial_EafHaR"
+        "testimonial_EafHaR",
+        "testimonial_p46rCa",
+        "testimonial_rexNGB"
       ],
       "name": "Testimonials",
       "settings": {
