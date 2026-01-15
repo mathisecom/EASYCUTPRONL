@@ -341,6 +341,12 @@
             "text": "<h2>EasyCut Pro PVC-afbraamer</h2>"
           }
         },
+        "liquid_LQD79m": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<ul class=\"custom-bullet-points\">\n  <li>Direct professioneel resultaat</li>\n  <li>Bespaar tijd bij elke snede</li>\n  <li>Minder verspilling, meer marge</li>\n</ul>\n\n<style>\n.custom-bullet-points {\n  list-style: none; /* verwijdert de standaard bullets */\n  padding-left: 0;\n}\n\n.custom-bullet-points li {\n  position: relative;\n  padding-left: 25px; /* ruimte voor de aangepaste bullet */\n  margin-bottom: 10px;\n  font-weight: 500;\n  font-size: 16px;\n}\n\n.custom-bullet-points li::before {\n  content: \"✓\"; /* je kunt dit vervangen door • of een SVG-icoon */\n  position: absolute;\n  left: 0;\n  color: #FF6600; /* kleur van de bullet */\n  font-weight: bold;\n}\n</style>"
+          }
+        },
         "liquid_BwBKTp": {
           "type": "liquid",
           "settings": {
@@ -423,6 +429,7 @@
         "liquid_kcid3z",
         "liquid_CJHxW9",
         "text_nppzWt",
+        "liquid_LQD79m",
         "liquid_BwBKTp",
         "price_nfFJQC",
         "description_9AMfFc",
