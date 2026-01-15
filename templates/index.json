@@ -81,6 +81,8 @@
         "image_p8VXDr": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_10_6038bc11-addb-41c6-93d0-265d4d555ecc.jpg",
+            "mobile_image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_10.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -264,7 +266,7 @@
         "liquid_BwBKTp": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div class=\"product__block product__block--custom_liquid\" style=\"margin-bottom: 25px;\">\n  <style>\n    #people-viewing {\n      position: relative;\n      padding-left: 30px;\n      font-size: 16px;\n      font-weight: bold;\n    }\n\n    #people-viewing::before {\n      content: '';\n      position: absolute;\n      left: 0;\n      top: 50%;\n      transform: translateY(-50%);\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #f4af29;\n      box-shadow: 0 0 10px #f4af29, 0 0 20px #f4af29;\n      animation: glowing 3.5s infinite;\n    }\n\n    @keyframes glowing {\n      0% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n      50% { box-shadow: 0 0 20px #f4af29, 0 0 30px #f4af29; }\n      100% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n    }\n  </style>\n\n  <div id=\"people-viewing\">Nog maar <span id=\"stock-count\">9</span> op voorraad!</div>\n\n  <script>\n    function animerStock() {\n      let stockActuel = 9;\n      const stockFinal = 5;\n      const elementStock = document.getElementById(\"stock-count\");\n\n      const interval = setInterval(() => {\n        stockActuel--;\n        elementStock.textContent = stockActuel;\n\n        if (stockActuel <= stockFinal) {\n          clearInterval(interval);\n        }\n      }, 12000);\n    }\n\n    const observateur = new IntersectionObserver((entries, observateur) => {\n      entries.forEach(entry => {\n        if (entry.isIntersecting) {\n          animerStock();\n          observateur.disconnect();\n        }\n      });\n    }, { threshold: 0.5 });\n\n    observateur.observe(document.getElementById(\"people-viewing\"));\n  </script>\n</div>"
           }
         },
         "price_nfFJQC": {
