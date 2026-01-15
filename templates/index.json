@@ -51,6 +51,82 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "ss_scrolling_logo_cloud_5_fDrXhJ": {
+      "type": "ss-scrolling-logo-cloud-5",
+      "blocks": {
+        "image_kzXbRg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_6.webp",
+            "url": ""
+          }
+        },
+        "image_4pBC8n": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_7.webp",
+            "url": ""
+          }
+        },
+        "image_fkmpec": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_8.webp",
+            "url": ""
+          }
+        },
+        "image_jiikMW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_9.webp",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_kzXbRg",
+        "image_4pBC8n",
+        "image_fkmpec",
+        "image_jiikMW"
+      ],
+      "name": "SS - Scrolling logo cloud #5",
+      "settings": {
+        "layout_radius": 30,
+        "layout_border_thickness": 0,
+        "heading": "<p><strong>Onze certificeringen</strong></p>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 12,
+        "heading_size_mobile": 10,
+        "heading_height": 130,
+        "scrolling_velocity": 20,
+        "scrolling_velocity_mobile": 16,
+        "scrolling_direction": "left",
+        "pause_hover": false,
+        "scrolling_gap": 24,
+        "scrolling_gap_mobile": 0,
+        "card_width_desktop": 130,
+        "card_width_mobile": 100,
+        "heading_color": "#121212",
+        "layout_bg_color": "#f5f6f7",
+        "layout_border_color": "#121212",
+        "background_color": "#f5f6f7",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 0,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
     "rich_text_kKQBqg": {
       "type": "rich-text",
       "blocks": {
@@ -723,6 +799,7 @@
   },
   "order": [
     "slideshow",
+    "ss_scrolling_logo_cloud_5_fDrXhJ",
     "rich_text_kKQBqg",
     "slideshow_AyKe9G",
     "rich_text_wANWjh",
