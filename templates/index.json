@@ -168,6 +168,7 @@
         "item_c6mRkN": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/2cc4b9ca6c01488393d364e73830e018.HD-720p-3.0Mbps-59255771 (2).mp4",
             "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
@@ -180,6 +181,7 @@
         "item_4BaGii": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/9e24428b6e4b49fda0d01125e5bd73fa.HD-720p-1.6Mbps-58526138 (2).mp4",
             "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
@@ -192,6 +194,7 @@
         "item_CedRVY": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/202511271206 (3) (2).mp4",
             "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
@@ -204,6 +207,7 @@
         "item_cUfWBa": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/202511271206 (1) (2).mp4",
             "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
