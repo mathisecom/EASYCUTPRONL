@@ -78,6 +78,28 @@
     },
     "contact_9w8EwQ": {
       "type": "contact",
+      "blocks": {
+        "text_3crpgL": {
+          "type": "text",
+          "settings": {
+            "title": "Aantal nodig",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "text_JfVy6q": {
+          "type": "text",
+          "settings": {
+            "title": "Bedrijfsnaam",
+            "use_long_text": false,
+            "required": false
+          }
+        }
+      },
+      "block_order": [
+        "text_3crpgL",
+        "text_JfVy6q"
+      ],
       "name": "Contact form",
       "settings": {
         "full_width": true,
