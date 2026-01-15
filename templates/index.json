@@ -243,6 +243,18 @@
     "featured_product_3W7gRK": {
       "type": "featured-product",
       "blocks": {
+        "liquid_kcid3z": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
+        "liquid_CJHxW9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Sterren\" width=\"63\" height=\"13\">\n        <span class=\"text-size\"><b>4,8/5</b> uit 3.380 beoordelingen</span>\n      </a>\n    </div>\n  </div>\n</div>"
+          }
+        },
         "title_FmUzq7": {
           "type": "title",
           "settings": {
@@ -251,6 +263,7 @@
         },
         "price_nfFJQC": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -323,6 +336,8 @@
         }
       },
       "block_order": [
+        "liquid_kcid3z",
+        "liquid_CJHxW9",
         "title_FmUzq7",
         "price_nfFJQC",
         "description_9AMfFc",
