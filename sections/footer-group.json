@@ -80,7 +80,7 @@
         "heading_tag": "h6",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "",
+        "background": "#f5f6f7",
         "background_gradient": "",
         "text_color": ""
       }
@@ -94,7 +94,7 @@
             "image": "shopify://shop_images/Logo_EvoKart_complet_70.pdf_4.webp",
             "image_width": 180,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "Newsletter",
             "content": ""
           }
         },
