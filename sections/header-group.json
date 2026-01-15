@@ -17,13 +17,29 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "✦ WINTER UITVERKOOP ✦",
+            "url": ""
+          }
+        },
+        "message_XCGaaU": {
+          "type": "message",
+          "settings": {
+            "text": "Gratis Verzending",
+            "url": ""
+          }
+        },
+        "message_4zUdy3": {
+          "type": "message",
+          "settings": {
+            "text": "✦ WINTER UITVERKOOP ✦",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_XCGaaU",
+        "message_4zUdy3"
       ],
       "settings": {
         "enable_sticky": false,
