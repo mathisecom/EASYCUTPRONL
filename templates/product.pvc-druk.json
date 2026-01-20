@@ -734,6 +734,123 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "faq_UHmMrz": {
+      "type": "faq",
+      "blocks": {
+        "item_RK6qRg": {
+          "type": "item",
+          "settings": {
+            "title": "Waar wordt dit gereedschap precies voor gebruikt?",
+            "content": "<p>Het stelt u in staat om een reeds gelijmde PVC-koppeling zeer eenvoudig met een boormachine te verwijderen, zonder gebruik van een hete luchtpistool en zonder deze onnodig te beschadigen.</p>"
+          }
+        },
+        "item_7ytmEi": {
+          "type": "item",
+          "settings": {
+            "title": "Met welke buisdiameters is dit compatibel?",
+            "content": "<p>De PVC-buigrader is speciaal ontworpen voor de meest voorkomende diameters: 32, 40, 50 en 100 mm. Alleen geschikt voor PVC-afvoerbuizen, niet voor drukbuizen.</p>"
+          }
+        },
+        "item_QhahJQ": {
+          "type": "item",
+          "settings": {
+            "title": "Geschikt voor alle boormachines en elektrische schroevendraaiers?",
+            "content": "<p>Compatibel met alle standaard boormachines dankzij de zeskantige schacht.</p>"
+          }
+        },
+        "item_aY4cTT": {
+          "type": "item",
+          "settings": {
+            "title": "Is het duurzaam? Slijten de messen snel?",
+            "content": "<p>Het gereedschap is gemaakt van hoogwaardig aluminium en ISO-gecertificeerde hardmetalen punten. De messen zijn duurzaam en kunnen tot 4 keer worden gedraaid voordat ze vervangen moeten worden.</p>"
+          }
+        },
+        "item_B9dg3T": {
+          "type": "item",
+          "settings": {
+            "title": "Is het moeilijk te gebruiken?",
+            "content": "<p>Nee, het is heel eenvoudig: sluit het aan op de boormachine, plaats het in de buis en laat het zijn werk doen. Binnen enkele seconden wordt de koppeling netjes verwijderd.</p>"
+          }
+        },
+        "item_8xLt4q": {
+          "type": "item",
+          "settings": {
+            "title": "Welke voordelen heeft het ten opzichte van een hete-luchtpistool?",
+            "content": "<p>Sneller en veiliger (geen risico op brandwonden of schade aan PVC)<br/><br/>Netter (uniform en gecontroleerd resultaat)<br/><br/>Geen verlengkabels of hittebron nodig</p>"
+          }
+        },
+        "item_iRGQdL": {
+          "type": "item",
+          "settings": {
+            "title": "Is het product gecertificeerd?",
+            "content": "<p>Voldoet aan RoHS, getest door SGS, CE-gecertificeerd en gemaakt van ISO/GB-T-gecertificeerde materialen.</p>"
+          }
+        },
+        "item_EU4iUF": {
+          "type": "item",
+          "settings": {
+            "title": "Is de buigrader gevaarlijk?",
+            "content": "<p>Nee. De EASYCUT PRO heeft een interne inzet die zich aanpast aan de binnendiameter van de buis. Deze inzet zit stevig in het PVC en voorkomt wegglijden of verkeerd plaatsen. Het gereedschap blijft stabiel en veilig, zelfs bij hoge snelheid.</p>"
+          }
+        },
+        "item_f8TXwz": {
+          "type": "item",
+          "settings": {
+            "title": "Blijven er spaanders achter in de buis?",
+            "content": "<p>Nee. De centrale pen duwt de spaanders automatisch naar buiten. Het ontbramen gebeurt netjes, zonder resten of verstoppingen in de buis.</p>"
+          }
+        },
+        "item_8DEpaG": {
+          "type": "item",
+          "settings": {
+            "title": "Kan het gebruikt worden op moeilijk bereikbare plaatsen?",
+            "content": "<p>Ja. De buigrader wordt geleverd met een haakse adapter, waardoor u eenvoudig in hoeken, onder gootstenen of achter meubels kunt werken, zonder dat u de installatie hoeft te demonteren.</p>"
+          }
+        },
+        "item_Dz3YRp": {
+          "type": "item",
+          "settings": {
+            "title": "Werkt het gereedschap ook met grote diameters?",
+            "content": "<p>Absoluut, met drie hardmetalen messen voor een snelle en schone snede, ook geschikt voor diameters tot 100 mm.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_RK6qRg",
+        "item_7ytmEi",
+        "item_QhahJQ",
+        "item_aY4cTT",
+        "item_B9dg3T",
+        "item_8xLt4q",
+        "item_iRGQdL",
+        "item_EU4iUF",
+        "item_f8TXwz",
+        "item_8DEpaG",
+        "item_Dz3YRp"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Veelgestelde Vragen",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "Gemiddelde reactietijd: 24 uur",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -748,6 +865,7 @@
     "rich_text_kQjwxa",
     "image_link_blocks_mwXA9D",
     "testimonials_fjtAEH",
-    "contact_KmrAwy"
+    "contact_KmrAwy",
+    "faq_UHmMrz"
   ]
 }
