@@ -170,6 +170,82 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_xqCmLy": {
+      "type": "multi-column",
+      "blocks": {
+        "item_iqYzgF": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/2cc4b9ca6c01488393d364e73830e018.HD-720p-3.0Mbps-59255771 (2).mp4",
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Ja7RGi": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/9e24428b6e4b49fda0d01125e5bd73fa.HD-720p-1.6Mbps-58526138 (2).mp4",
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kcNFg4": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/202511271206 (3) (2).mp4",
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zgw6eK": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/202511271206 (1) (2).mp4",
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_iqYzgF",
+        "item_Ja7RGi",
+        "item_kcNFg4",
+        "item_zgw6eK"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "ZE HEBBEN HET GETEST EN GOEDGEKEURD",
+        "title": "Meer dan 5.000 uur werk bespaard",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -304,6 +380,7 @@
     "slideshow_nwB48d",
     "rich_text_twY8LC",
     "video_MGkXpt",
+    "multi_column_xqCmLy",
     "main",
     "related-products"
   ]
