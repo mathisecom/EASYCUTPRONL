@@ -380,6 +380,39 @@
         "input_text_color": ""
       }
     },
+    "rich_text_kQjwxa": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_7idEYN": {
+          "type": "subheading",
+          "settings": {
+            "text": "Zij zeggen het beter dan wij"
+          }
+        },
+        "heading_HaeTQr": {
+          "type": "heading",
+          "settings": {
+            "text": "Meer dan 3.000 tevreden klanten",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_7idEYN",
+        "heading_HaeTQr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_link_blocks_mwXA9D": {
       "type": "image-link-blocks",
       "blocks": {
@@ -485,6 +518,90 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "testimonials_fjtAEH": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_QeVqA8": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Jeroen S.",
+            "title": "Verrassend efficiënt!",
+            "content": "<p>Verwijdert een fitting in enkele seconden met een schoon resultaat. Bespaart me veel tijd bij elke klus.</p>"
+          }
+        },
+        "testimonial_ad9H6P": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Sanne U.",
+            "title": "Zeer degelijk gereedschap.",
+            "content": "<p>De messen snijden perfect en slijten nauwelijks. Veel beter dan een heteluchtpistool gebruiken.</p>"
+          }
+        },
+        "testimonial_jJaVA8": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Pieter A.",
+            "title": "Werkt met al mijn boormachines.",
+            "content": "<p>Ik gebruik het elke dag. Super eenvoudig en snel. Een must-have voor elke loodgieter.</p>"
+          }
+        },
+        "testimonial_bgpLN9": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Femke R.",
+            "title": "Nooit meer verbrande fittingen!",
+            "content": "<p>De snede is schoon en glad, zonder warmte of geur. Veel netter dan de oude methodes</p>"
+          }
+        },
+        "testimonial_bNhTkm": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Martijn J.",
+            "title": "Grote diameters zijn geen probleem.",
+            "content": "<p>Getest op 100 mm, en het werkte perfect. Zeer aan te bevelen!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_QeVqA8",
+        "testimonial_ad9H6P",
+        "testimonial_jJaVA8",
+        "testimonial_bgpLN9",
+        "testimonial_bNhTkm"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -495,6 +612,8 @@
     "video_MGkXpt",
     "multi_column_xqCmLy",
     "main",
-    "image_link_blocks_mwXA9D"
+    "rich_text_kQjwxa",
+    "image_link_blocks_mwXA9D",
+    "testimonials_fjtAEH"
   ]
 }
