@@ -121,6 +121,55 @@
         "background_gradient": ""
       }
     },
+    "rich_text_twY8LC": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_fLi8db": {
+          "type": "subheading",
+          "settings": {
+            "text": "VOOR/NA"
+          }
+        },
+        "heading_7nNfXE": {
+          "type": "heading",
+          "settings": {
+            "text": "Zie het verschil!",
+            "heading_tag": "h2",
+            "text_color": "#1c3d5a",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_fLi8db",
+        "heading_7nNfXE"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_MGkXpt": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/202511281216 (7).mp4",
+        "mobile_video": "shopify://files/videos/202511281216 (7).mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -253,6 +302,8 @@
     "slideshow_gfXNxR",
     "rich_text_bdeyt8",
     "slideshow_nwB48d",
+    "rich_text_twY8LC",
+    "video_MGkXpt",
     "main",
     "related-products"
   ]
