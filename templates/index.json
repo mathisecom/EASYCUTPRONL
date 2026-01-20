@@ -326,7 +326,7 @@
         "liquid_kcid3z": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <style>\n      .badges-container {\n        display: flex;\n        gap: 6px; /* ruimte tussen de badges */\n        align-items: center;\n      }\n\n      .badge {\n        display: inline-block;\n        padding: 4px 10px;\n        font-size: 12px;\n        font-weight: bold;\n        color: white;\n        background: #FF6A00; /* opvallende kleur */\n        border-radius: 15px;\n        text-transform: uppercase;\n        white-space: nowrap;\n      }\n    </style>\n\n    <div class=\"badges-container\">\n      <div class=\"badge\">Bestseller</div>\n      <div class=\"badge\">WINTERUITVERKOOP -50%</div>\n    </div>\n  </div>\n</div>"
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <style>\n      .badges-container {\n        display: flex;\n        gap: 6px; /* ruimte tussen de badges */\n        align-items: center;\n      }\n\n      .badge {\n        display: inline-block;\n        padding: 4px 10px;\n        font-size: 12px;\n        font-weight: bold;\n        color: white;\n        background: #FF6A00; /* opvallende kleur */\n        border-radius: 15px;\n        text-transform: uppercase;\n        white-space: nowrap;\n      }\n    </style>\n\n    <div class=\"badges-container\">\n      <div class=\"badge\">Bestseller</div>\n      <div class=\"badge\">WINTERUITVERKOOP -35%</div>\n    </div>\n  </div>\n</div>"
           }
         },
         "liquid_CJHxW9": {
