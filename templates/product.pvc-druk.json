@@ -332,7 +332,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<p>Ons team staat 7 dagen per week klaar om je vragen te beantwoorden.</p><p>Je kunt ons bereiken via e-mail op de volgende tijden: 09:00 – 17:00, maandag tot en met zondag.</p><p><a href=\"mailto:hello@easycut-pro.com\">hello@easycut-pro.com</a></p><p>Aarzel niet om contact met ons op te nemen!</p>",
             "page": ""
           }
         },
@@ -342,7 +342,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<p>Vandaag besteld, morgen verzonden. Bezorging binnen 5‑7 dagen met tracking.</p>",
             "page": ""
           }
         }
@@ -602,6 +602,27 @@
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
       }
+    },
+    "contact_KmrAwy": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Nog een vraag?",
+        "content": "<p>Ons team staat 24/7 voor je klaar.</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -614,6 +635,7 @@
     "main",
     "rich_text_kQjwxa",
     "image_link_blocks_mwXA9D",
-    "testimonials_fjtAEH"
+    "testimonials_fjtAEH",
+    "contact_KmrAwy"
   ]
 }
